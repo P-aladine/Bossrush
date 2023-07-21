@@ -1,11 +1,22 @@
 # Bossrush
 ## Game concept
-3d top down boss rush shooter with a pixel wild west art style. Player is a young Billy the Kid.
+3d top down boss rush shooter with a pixelated wild west art style with a small rich and contained world and unique characters. world and characters exposition via dialogue (like in undertale and va1-ha11a)
+
+### Game loop
+  - Replay bosses (in player's dreams) for better time (speedrunning)
+  - Multiple difficulties
+
+### Story
+Player is Billy the Kid with the fool arcana trapped in his gun because of the world arcana. To exact revenge billy and the fool must now vanquish all the other arcanas including the world to prove them wrong.
 
 ### Controls
 - movement: basic movement + dash with wasd and shift respectively.
 - attacks: kick with space while shooting is with left mouseclick and throwing a coin with right.
 - other: r for reloading, scroll mouse wheel to change bullet and q/e to rotate camera around.
+
+### Mechanics
+- Bullet boost/ricochet: player throws a coin in an arc, he then must time his shooting to hit the coin (basically reverse parry). This results in a faster, stronger bullet (with auto aim)
+- Cover creation: create environment in a way where objects can be tipped over by kicking to create cover for the player.
 
 ### Bosses
 Most bosses are controlled by outlaws, hence the bounties the rest are mysteries.
@@ -121,4 +132,3 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 #### The World
 -	Heavenly dragon
 -	must clear the star, moon and sun bounty first
-
