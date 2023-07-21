@@ -27,12 +27,12 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 -	Eldritch tree trunk
 -	It keeps getting healed, player needs to burn down flower plant to stop the healing.
 #### The Empress
--	Masked serial killer artist
+-	Masked serial killer artist, Jack the Ripper
 -	Peacock with eye feathers
 -	Forest Waterfall
 -	Darkness mechanic, all black showing eyes everywhere with only one being correct, shoot it to turn light back on
 #### The Emperor
--	Beautiful vampire lady
+-	Beautiful vampire lady Carmilla
 -	Statue of dual gunslinger on a 6-legged deer
 -	lady revives human with her blood, skeleton gunslinger and deer raise from the grave and fight player
 #### The Hierophant
@@ -72,7 +72,7 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 -	When player throws coin for bullet boost, boss will try to steal and use it for themselves first.
 -	Must clear the chariot bounty first.
 #### The Hanged Man
-- Townspeople
+- Townspeople and Robin Hood
 -	Giant Virgo puppet
 -	Puppet changes its looks when player goes in and out of the mirror world.
 -	Player can break the mirrors to limit the boss' attacks
@@ -94,7 +94,7 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 -	After killing some sheep second phase starts, satan appears
 -	Must clear Death bounty first.
 #### The Tower
--	Wizard
+-	"Wizard" Thomas Edison
 -	Rock snake
 -	Traverse tower with traps when reaching the top get thrown off, tower is the boss.
 -	Need to implement camera rotation effect, going up the stairs like spiral.
