@@ -5,7 +5,7 @@
 ### Controls
 - movement: basic movement + dash with wasd and shift respectively.
 - attacks: kick with space while shooting is with left mouseclick and throwing a coin with right.
-- other: r for reloading and q/e to rotate camera around.
+- other: r for reloading, scroll mouse wheel to change bullet and q/e to rotate camera around.
 
 ### Bosses
 Most bosses are controlled by outlaws, hence the bounties the rest are mysteries.
