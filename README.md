@@ -23,9 +23,9 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 -	Cerberus now breathes fire too and adds fire element to previous attacks.
 -	At 25% hp of boss manifests shackles that lock player and Cerberus to limit player’s movement, can be destroyed by kicking a few times.
 #### The High Priestess
--	Mowgli
--	Fairy queen and fairies
--	Keep healing each other need to burn tree/destroy well and stop healing.
+-	Fairy queen
+-	Lion and tiger
+-	They keep getting healed, player needs to burn down trees to stop the healing.
 #### The Empress
 -	Serial killer artist
 -	Peacock with eye feathers
@@ -33,10 +33,7 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 -	Darkness mechanic, all black showing eyes everywhere with only one being correct, shoot it to turn light back on
 #### The Emperor
 -	Beautiful lady
--	Lion and tiger statue of the lake
--	Lion commands water and thunder is commanded by the tiger.
--	they can combo together by spreading water to chain thunder attacks
--	they also have a supernova attack together (like in monster hunter with teostra and lunastra)
+-	Statue of odin with dual revolver
 #### The Hierophant
 -	Poor naïve man
 -	Cthulhu
@@ -56,7 +53,7 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 -	after first phase it loses its body but chief raises 2 huge arms for it with a ritual.
 #### The Hermit
 -	Crazy old man who loves dynamite
--	Cancer with massive cannons on its back and in its claws
+-	Gigantic hermit with massive cannons on its back and in its claws
 #### Wheel of Fortune
 -	Rich conman
 -	Well clothed monkey
