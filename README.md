@@ -85,25 +85,34 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 #### The Devil
 -	Soulless herder contracted with the devil.
 -	Black sheep
--	After killing some charging sheep second phase starts, satan appears
+-	After killing some sheep second phase starts, satan appears
 -	Must clear Death bounty first.
 #### The Tower
 -	Wizard
 -	Rock snake
 -	Traverse tower with traps when reaching the top get thrown off, tower is the boss.
 -	Need to implement camera rotation effect, going up the stairs like spiral.
+-	unlocks the star, moon and sun bounty
 #### The Star
 -	Mermaid
 -	Two big fish
+-	must clear the tower first
 #### The Moon
 - Hannibal the cannibal
--	Little white rabbits, in second phase they group together to form a big rabbit
+-	Little white rabbits
+-	Based on the moon cycle, as the cycle goes on the more rabbits group together to form a bigger rabbit.
+-	After a complete cycle it resets and the rabbits disperse again.
+-	Small rabbits and big rabbit have their own set of attacks
+- must clear the tower first
 #### The Sun
 - Aztec believer
 -	Phoenix/Quetzalcoatl
 -	rises higher into the air to perform a dive attack, player needs to look at the shadow to dodge
+-	must clear the tower first
 #### Judgement
 -	Biblically accurate angel, big eye with wings
 -	Boss scales on how many other bosses you’ve slain before (only counts once per boss)
 #### The World
 -	Heavenly dragon
+-	must clear the star, moon and sun bounty first
+
