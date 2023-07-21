@@ -23,11 +23,11 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 -	Cerberus now breathes fire too and adds fire element to previous attacks.
 -	At 25% hp of boss manifests shackles that lock player and Cerberus to limit player’s movement, can be destroyed by kicking a few times.
 #### The High Priestess
--	Fairy queen
--	Lion and tiger
--	They keep getting healed, player needs to burn down trees to stop the healing.
+-	Mad botanist scientist
+-	Eldritch tree trunk
+-	It keeps getting healed, player needs to burn down flower plant to stop the healing.
 #### The Empress
--	Serial killer artist
+-	Masked serial killer artist
 -	Peacock with eye feathers
 -	Forest Waterfall
 -	Darkness mechanic, all black showing eyes everywhere with only one being correct, shoot it to turn light back on
@@ -37,9 +37,10 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 -	lady revives human with her blood, skeleton gunslinger and deer raise from the grave and fight player
 #### The Hierophant
 -	Poor naïve man
--	Cthulhu
+-	Cthulhu (like Tahm Kench in league of legends)
 -	Spawn tentacles that attack player (like Illaoi in league of legends)
 #### The Lovers
+- Lion, tiger and liger (circus escapees)
 -	Angel and devil Gemini
 -	First phase angel, second devil, third together
 -	When they both get knocked down, they copulate and make baby before dying, baby is now the boss and final phase.
@@ -55,19 +56,23 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 #### The Hermit
 -	Crazy old man who loves dynamite
 -	Gigantic hermit with massive cannons on its back and in its claws
+-	first phase hermit shoots its cannons on its back for long range and shotgun claws for short range
+-	second phase old man starts throwing dynamites as well (implement a mechanic to let the player stop the old man from throwing and hurt himself)
+-	third phase hermit will try to grab player to limit movement
 #### Wheel of Fortune
 -	Rich conman
 -	Well clothed monkey
 -	Wheel of fortune gives trials (like Hercules)
 -	Last trial is fighting the beefed up, well clothed monkey on steroids
 #### Justice
--	Sheriff Robert Widenmann
+-	Sheriff Robert Widenmann, big brother figure for the player
 -	Magic gun
 -	Gun takes control of human.
 -	Boss has player moves (including upgrades)
 -	When player throws coin for bullet boost, boss will try to steal and use it for themselves first.
 -	Must clear the chariot bounty first.
 #### The Hanged Man
+- Townspeople
 -	Giant Virgo puppet
 -	Puppet changes its looks when player goes in and out of the mirror world.
 -	Player can break the mirrors to limit the boss' attacks
