@@ -34,6 +34,9 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 #### The Emperor
 -	Beautiful lady
 -	Lion and tiger statue of the lake
+-	Lion commands water and thunder is commanded by the tiger.
+-	they can combo together by spreading water to chain thunder attacks
+-	they also have a supernova attack together (like in monster hunter with teostra and lunastra)
 #### The Hierophant
 -	Poor naïve man
 -	Cthulhu
@@ -49,7 +52,7 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 -	Will unlock the justice bounty.
 #### Strength
 -	Indian chief Geronimo
--	Skeletal ox with massive head
+-	Skeletal Triceratops with massive head
 -	after first phase it loses its body but chief raises 2 huge arms for it with a ritual.
 #### The Hermit
 -	Crazy old man who loves dynamite
