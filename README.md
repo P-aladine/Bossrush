@@ -32,8 +32,9 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 -	Forest Waterfall
 -	Darkness mechanic, all black showing eyes everywhere with only one being correct, shoot it to turn light back on
 #### The Emperor
--	Beautiful lady
--	Statue of odin with dual revolver
+-	Beautiful vampire lady
+-	Statue of dual gunslinger on a 6-legged deer
+-	lady revives human with her blood, skeleton gunslinger and deer raise from the grave and fight player
 #### The Hierophant
 -	Poor naïve man
 -	Cthulhu
