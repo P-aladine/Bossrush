@@ -17,16 +17,15 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 #### The Magician
 -	Lonely little girl
 -	Cerberus 
--	Abandoned town
 -	Boss commands 3 dogs with each their own hp that attack player and defend boss.
 -	Dogs have claw and rush attacks and at 50% hp they shoot fireballs.
 -	At 50% hp of boss, remaining dogs fuse together to become Cerberus (when no dogs, boss revives them). A bigger, stronger and faster dog.
 -	Cerberus now breathes fire too and adds fire element to previous attacks.
 -	At 25% hp of boss manifests shackles that lock player and Cerberus to limit player’s movement, can be destroyed by kicking a few times.
 #### The High Priestess
--	Elves archers
--	Forest
--	Elves keep healing each other need to burn tree/destroy well.
+-	Mowgli
+-	Fairy queen and fairies
+-	Keep healing each other need to burn tree/destroy well and stop healing.
 #### The Empress
 -	Serial killer artist
 -	Peacock with eye feathers
@@ -53,12 +52,13 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 -	Skeletal ox with massive head
 -	after first phase it loses its body but chief raises 2 huge arms for it with a ritual.
 #### The Hermit
--	Crazy old man
+-	Crazy old man who loves dynamite
 -	Cancer with massive cannons on its back and in its claws
 #### Wheel of Fortune
 -	Rich conman
 -	Well clothed monkey
 -	Wheel of fortune gives trials (like Hercules)
+-	Last trial is fighting the beefed up, well clothed monkey on steroids
 #### Justice
 -	Sheriff Robert Widenmann
 -	Magic gun
