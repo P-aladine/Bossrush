@@ -1,6 +1,6 @@
 # Bossrush
 ## Game concept
-3d top down boss rush shooter with a pixel wild west art style.
+3d top down boss rush shooter with a pixel wild west art style. Player is a young Billy the Kid.
 
 ### Controls
 - movement: basic movement + dash with wasd and shift respectively.
@@ -10,7 +10,7 @@
 ### Bosses
 Most bosses are controlled by outlaws, hence the bounties the rest are mysteries.
 #### The Fool
--	Ghost of Billy the Kidd
+-	Ghost
 -	Dream 
 -	Becomes player’s gun.
 -	Game tutorial
@@ -45,11 +45,11 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 -	When they both get knocked down, they copulate and make baby before dying, baby is now the boss and final phase.
 -	Baby has enhanced moves of both angel and devil.
 #### The Chariot
--	Inmates 
+-	Inmates Wild Bunch (leader = Butch Cassidy)
 -	Trojan horse
 -	Will unlock the justice bounty.
 #### Strength
--	Indian chief
+-	Indian chief Geronimo
 -	Skeletal ox with massive head
 -	after first phase it loses its body but chief raises 2 huge arms for it with a ritual.
 #### The Hermit
@@ -60,7 +60,7 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 -	Well clothed monkey
 -	Wheel of fortune gives trials (like Hercules)
 #### Justice
--	Sheriff
+-	Sheriff Robert Widenmann
 -	Magic gun
 -	Gun takes control of human.
 -	Boss has player moves (including upgrades)
@@ -69,6 +69,7 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 #### The Hanged Man
 -	Giant Virgo puppet
 -	Puppet changes its looks when player goes in and out of the mirror world.
+-	Player can break the mirrors to limit the boss' attacks
 #### Death
 -	Cult of Hades 
 -	Spawn waves of zombies, on death drops coin for bullet boost.
@@ -84,6 +85,7 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 #### The Devil
 -	Soulless herder contracted with the devil.
 -	Black sheep
+-	After killing some charging sheep second phase starts, satan appears
 -	Must clear Death bounty first.
 #### The Tower
 -	Wizard
@@ -91,14 +93,15 @@ Most bosses are controlled by outlaws, hence the bounties the rest are mysteries
 -	Traverse tower with traps when reaching the top get thrown off, tower is the boss.
 -	Need to implement camera rotation effect, going up the stairs like spiral.
 #### The Star
--	 Mermaid
+-	Mermaid
 -	Two big fish
 #### The Moon
--	White Rabbit
--	Spawns stars it can jump on to increase speed and damage.
--	Can shoot the stars down to break the combo.
+- Hannibal the cannibal
+-	Little white rabbits, in second phase they group together to form a big rabbit
 #### The Sun
--	Phoenix 
+- Aztec believer
+-	Phoenix/Quetzalcoatl
+-	rises higher into the air to perform a dive attack, player needs to look at the shadow to dodge
 #### Judgement
 -	Biblically accurate angel, big eye with wings
 -	Boss scales on how many other bosses you’ve slain before (only counts once per boss)
