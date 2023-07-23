@@ -7,7 +7,7 @@
   - Multiple difficulties
 
 ### Story
-Player is a mute elf with an energetic pixie as companion fighting evildoers that are trying to pollute/destroy your home (the forest)
+Player is a mute elf that likes to play the hero with an energetic pixie as companion fighting evildoers that are trying to pollute/destroy your home (the forest)
 
 ### Controls
 - movement: basic movement + dash with wasd and shift respectively.
@@ -16,7 +16,12 @@ Player is a mute elf with an energetic pixie as companion fighting evildoers tha
 
 
 ### Mechanics
-- Pixie element: you start out the game with the wind element. When you shoot an arrow to your pixie she will push your arrow with a gust of wind to the nearest enemy, with increased strength and speed.
+When you shoot an arrow to your pixie she will interact with it in a certain way depending on the element she currently is.
+- Pixie element:
+  - Wind: the element that the player starts with. pixie pushes your arrow with a gust of wind to the nearest enemy, with increased strength and speed.
+  - Light: pixie grabs the arrow and then throws it higher into the air, blinding enemies within the vicinity.
+  - Thunder: pixie hurls the arrow to the nearest object and chains lightning between the arrow, pixie and the player. (for clearing puzzles).
+  - etc etc...
 - Cover creation: create environment in a way where objects can be tipped over by kicking to create cover for the player.
 
 ### Bosses
